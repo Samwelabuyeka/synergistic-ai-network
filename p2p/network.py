@@ -1,0 +1,1 @@
+WebSocket based peer-to-peer networking layer.
