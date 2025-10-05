@@ -1,0 +1,1 @@
+# E2E encryption for secure communication
