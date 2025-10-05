@@ -1,0 +1,1 @@
+# Gossip protocol for data dissemination
